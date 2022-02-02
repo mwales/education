@@ -1,0 +1,11 @@
+*.o
+*.i
+*.s
+a.out
+helloworld
+hw
+do_loop
+fact
+l32sizes
+l64sizes
+repeat
